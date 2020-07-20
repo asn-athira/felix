@@ -1,0 +1,46 @@
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, or any plugin's
+ * vendor/assets/stylesheets directory can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any other CSS/SCSS
+ * files in this directory. Styles in this file should be added after the last require_* statement.
+ * It is generally better to create a new file per style scope.
+ *
+ *= require bootstrap.css
+ 
+ *= require fontawesome.css
+ *= require owl.theme.default.min.css
+ *= require owl.carousel.min.css
+
+ *= require settings.css
+ *= require navigation.css
+
+ *= require style.css
+ *= require responsive.css
+ *= require header.css
+ *= require products.css
+ *= require flow.css
+ *= require what-we-do.css
+ *= require service-location.css
+
+ *= require testimonial.css
+ *= require book_now.css
+ *= require footer.css
+ *= require our_offers.css
+ *= require hover.css
+ *= require contact_us.css
+ *= require breadcrumb.css
+ *= require blog.css
+ *= require blog-sidebar.css
+ *= require about_us.css
+
+ *= require layers.css
+ *= require prettyPhoto.css
+
+ *= require_self
+ */
+ 
