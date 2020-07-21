@@ -15,6 +15,12 @@ class WebController < ApplicationController
 
  	
  end
+
+ def blogdetails
+
+ 	
+ end
+ 
  def contact
 
  	
@@ -23,7 +29,11 @@ class WebController < ApplicationController
 
  	
  end
-  
+  def price
+
+ 	
+ end
+ 
  def service
 
  	

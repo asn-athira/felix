@@ -11,7 +11,7 @@
 // about supported directives.
 
 //= require activestorage
-// require turbolinks
+//= require turbolinks
 //= require bootstrap/js/bootstrap.min.js
 
 //= require slider/js/jquery.themepunch.tools.min.js
@@ -22,5 +22,23 @@
 //= require slider/js/extensions/revolution.extension.layeranimation.min.js
 //= require slider/js/extensions/revolution.extension.navigation.min.js
 //= require slider/js/extensions/revolution.extension.parallax.min.js
-// require owlcarousel/owl.carousel.js
+
+//= require slider/js/extensions/revolution.extension.actions.min.js
+
+//= require slider/js/extensions/revolution.extension.carousel.min.js
+//= require slider/js/extensions/revolution.extension.migration.min.js
+
+//= require webs/main.js
+//= require webs/jquery.min.js
+//= require webs/jquery.prettyPhoto.js
+//= require webs/jquery.validate.min.js
+//= require webs/map-script.js
+//= require webs/owl.carousel.min.js
+//= require webs/vanillatree.js
+//= require webs/vanillatree.min.js
+
+
+
+
+//= require owlcarousel/owl.carousel.js
 
