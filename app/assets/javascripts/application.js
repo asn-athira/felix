@@ -10,10 +10,11 @@
 // Read Sprockets README (https://github.com/rails/sprockets#sprockets-directives) for details
 // about supported directives.
 
+//= require jquery
 //= require jquery.min.js
 
-//= require activestorage
-//= require turbolinks
+// require activestorage
+// require turbolinks
 //= require bootstrap/js/bootstrap.min.js
 
 //= require slider/js/jquery.themepunch.tools.min.js
@@ -37,9 +38,5 @@
 //= require webs/owl.carousel.min.js
 //= require webs/vanillatree.js
 //= require webs/vanillatree.min.js
-
-
-
-
 //= require owlcarousel/owl.carousel.js
 

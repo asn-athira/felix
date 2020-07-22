@@ -41,6 +41,6 @@
  *= require layers.css
  *= require prettyPhoto.css
 
- *= require_self
+ * require_self
  */
  
